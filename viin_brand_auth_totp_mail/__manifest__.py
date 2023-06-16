@@ -60,4 +60,3 @@ Module này sẽ thay đổi module 2FA Invite mail theo thương hiệu Viindoo
     'currency': 'EUR',
     'license': 'OPL-1',
 }
-
