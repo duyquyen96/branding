@@ -252,7 +252,6 @@ msgid ""
 msgstr ""
 
 
-
 #. module: viin_brand_auth_signup
 #: model:mail.template,body_html:auth_signup.reset_password_email
 msgid ""

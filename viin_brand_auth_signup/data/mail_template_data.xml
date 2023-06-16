@@ -150,8 +150,7 @@
     <record id="auth_signup.set_password_email" model="mail.template">
         <field name="name">Settings: New Portal Signup</field>
         <field name="model_id" ref="base.model_res_users" />
-        <field name="subject">{{ object.create_uid.name }} from {{ object.company_id.name }} invites
-            you to connect to Viindoo</field>
+        <field name="subject">{{ object.create_uid.name }} from {{ object.company_id.name }} invites you to connect to Viindoo</field>
         <field name="email_from">{{ (object.company_id.email_formatted or user.email_formatted) }}</field>
         <field name="email_to">{{ object.email_formatted }}</field>
         <field name="description">Sent to new user after you invited them</field>
