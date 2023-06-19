@@ -3,7 +3,7 @@
     <template t-inherit="hr_expense.hr_expense_template_register_no_user">
         <xpath expr="//a[@href='https://www.odoo.com']" position="replace">
             <a target="_blank"
-                href="https://www.viindoo.com">Viindoo</a>
+                href="https://viindoo.com">Viindoo</a>
         </xpath>
     </template>
 </odoo>
