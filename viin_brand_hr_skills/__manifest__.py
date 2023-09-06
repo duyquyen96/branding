@@ -41,8 +41,10 @@ Module này sẽ thay đổi giao diện module Skills Management theo thương 
 
     # always loaded
     'data': [
-        'demo/hr_resume_demo.xml',
         'views/hr_views.xml',
+    ],
+    'demo': [
+        'demo/hr_resume_demo.xml',
     ],
     'installable': True,
     'application': False,
