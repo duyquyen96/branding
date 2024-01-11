@@ -60,9 +60,9 @@ msgid ""
 "                    relies on the first outgoing mail server available (based on their sequencing)\n"
 "                    as it does for normal mails."
 msgstr ""
-"Ưu tiên sử dụng một máy chủ thư cụ thể. Nếu không thì Hệ thống\n"
-" dựa vào máy chủ thư đi đầu tiên có sẵn (dựa trên trình tự của chúng)\n"
-" giống như đối với các thư thông thường."
+"Sử dụng một máy chủ gửi thư riêng. Nếu không, Hệ thống\n"
+" sẽ sử dụng máy chủ gửi thư khả dụng đầu tiên (dựa trên trình tự của chúng)\n"
+" như đối với các thư thông thường."
 #. module: viin_brand_mass_mailing
 #: model_terms:ir.ui.view,arch_db:viin_brand_mass_mailing.s_text_block
 msgid ""
