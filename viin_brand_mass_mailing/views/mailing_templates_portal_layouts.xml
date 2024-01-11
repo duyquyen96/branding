@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="layout" inherit_id="mass_mailing.layout">
+        <xpath expr="//title[text()[contains(., 'Odoo')]]" position="replace">
+            <title>Viindoo</title>
+        </xpath>
+    </template>
+
+</odoo>
