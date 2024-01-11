@@ -18,7 +18,7 @@ msgstr ""
 #. module: viin_brand_mass_mailing
 #: model_terms:ir.ui.view,arch_db:viin_brand_mass_mailing.s_call_to_action
 msgid "<span style=\"font-weight: bolder;\">50,000+ companies</span> run Viindoo."
-msgstr "<span style=\"font-weight: bolder;\">Hơn 50.000 công ty</span> điều hành Viindoo."
+msgstr "<span style=\"font-weight: bolder;\">Hơn 50.000 công ty</span> dùng Viindoo."
 
 #. module: viin_brand_mass_mailing
 #: model_terms:ir.ui.view,arch_db:viin_brand_mass_mailing.s_text_block
