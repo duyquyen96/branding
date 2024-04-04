@@ -9,11 +9,7 @@
 {
     "name": "Web Responsive",
     "summary": "Responsive web client, community-supported",
-<<<<<<< HEAD
     "version": "17.0.1.0.0",
-=======
-    "version": "16.0.1.2.5",
->>>>>>> 134b012 ([IMP] web_responsive: shows scroll bar with too long message content)
     "category": "Website",
     "website": "https://github.com/OCA/web",
     "author": "LasLabs, Tecnativa, ITerra, Onestein, "
@@ -55,12 +51,9 @@
             "/web_responsive/static/src/components/control_panel/*",
             "/web_responsive/static/src/components/command_palette/*",
             "/web_responsive/static/src/views/form/form_controller.scss",
-<<<<<<< HEAD
             "/web_responsive/static/src/views/form/status_bar_buttons.xml",
             "/web_responsive/static/src/views/form/form_statusbar.scss",
-=======
             "/web_responsive/static/src/components/message/message.xml",
->>>>>>> 134b012 ([IMP] web_responsive: shows scroll bar with too long message content)
         ],
         "web.assets_tests": [
             "/web_responsive/static/tests/test_patch.js",
