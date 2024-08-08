@@ -22,15 +22,5 @@ msgstr "Phần mềm Thương mại Điện tử Mã nguồn mở số 1"
 
 #. module: viin_brand_website_sale
 #: model_terms:ir.ui.view,arch_db:viin_brand_website_sale.brand_promotion
-<<<<<<< HEAD
-msgid "The"
-msgstr ""
-
-#. module: viin_brand_website_sale
-#: model_terms:ir.ui.view,arch_db:viin_brand_website_sale.brand_promotion
 msgid "https://viindoo.com/intro/ecommerce?utm_source=db&utm_medium=website"
 msgstr ""
-=======
-msgid "https://viindoo.com/intro/ecommerce?utm_source=db&utm_medium=website"
-msgstr "https://viindoo.com/intro/ecommerce?utm_source=db&utm_medium=website"
->>>>>>> 6df49fe ([FIX] viin_brand_website_sale: fix i18n)
