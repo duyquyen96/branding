@@ -1,6 +1,5 @@
 .o_main_navbar {
-	background-color : $brand-primary-dark;
-	border-bottom: 1px solid $brand-primary-darker;
+	border-bottom: none !important;
 
 	.show {
 		.dropdown-toggle {
@@ -59,7 +58,8 @@ body.o_is_superuser .o_menu_systray {
 			.badge {
 				height: auto;
 				border-radius: 0.25rem;
-				background-color: var(--o-navbar-badge-bg, #{$o-enterprise-primary-color});
+				background-color: var(--o-navbar-badge-bg, $red);
+				color:white;
             }
 		}
 	}
