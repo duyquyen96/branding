@@ -1,48 +1,9 @@
 .o_main_navbar {
 	border-bottom: none !important;
 
-	.show {
-		.dropdown-toggle {
-			background-color: $brand-primary-darker;
-		}
-	}
-
 	a.dropdown-toggle{
 			    text-decoration: none;
 		}
-
-	> a,
-	> button {
-		&:hover,
-		&:focus {
-			background-color: $brand-primary-dark;
-		}
-	}
-
-	> ul {
-		> li {
-			&.o_extra_menu_items {
-				&.show {
-					> ul {
-						> li {
-							> a {
-								&.dropdown-toggle {
-									background-color: $brand-primary-dark !important;
-								}
-							}
-						}
-					}
-				}
-			}
-			> label,
-			> a {
-				&:hover,
-				&:focus{
-					background-color: $brand-primary-dark;
-				}
-			}
-		}
-	}
 }
 // = SuperUser Design
 // ============================================================================
